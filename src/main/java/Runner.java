@@ -4,7 +4,7 @@ public class Runner {
 
         System.out.println("versiyon1");
 
-
+        System.out.println("versiyon2");
 
     }
 }
